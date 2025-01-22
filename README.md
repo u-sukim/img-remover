@@ -14,6 +14,9 @@
 2. 제거할 `id` 또는 `class` 입력 (예: `id:logo`, `class:advertisement`)
 3. 저장 후 변경 사항 적용
 
+![image](https://github.com/user-attachments/assets/49bdb58d-32c4-422c-b0ba-38d433c70809)
+
+
 ## 기여
 - 포크 후 수정하여 풀 리퀘스트 제출
 - `Issues`에 문제 또는 아이디어 등록
